@@ -18,7 +18,7 @@
   ## Product Example
 ## Installation <a name="installation"></a>
 clone the repo or download the file and run in visual studio code
-## Usage <a name="usage"></a>
+## Usage <a name="usage"></a> `assests/images` 
 ## Licenses <a name="licenses"></a>
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
